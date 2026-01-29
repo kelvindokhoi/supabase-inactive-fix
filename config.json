@@ -2,13 +2,7 @@
   {
     "name": "Database1",
     "supabase_url": "https://agnxfidpnampqzqsxdjh.supabase.co",
-    "supabase_key": "sb_publishable_551gYWSMXJ9DGPpJD1GheA_fmSl6GSq",
+    "supabase_key": SUPABASE_KEY_1,
     "table_name": "keep-alive"
   },
-  {
-    "name": "Database2",
-    "supabase_url": "https://your-project-id-2.supabase.co",
-    "supabase_key_env": "SUPABASE_KEY_2",
-    "table_name": "KeepAlive"
-  }
 ]
